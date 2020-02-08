@@ -1,14 +1,14 @@
 {
   "currencies": {
-    "BTC": {"balance": 0},
-    "DCR": {"balance": 0},
-    "XMR": {"balance": 0},
-    "ETH": {"balance": 0},
-    "NAS": {"balance": 0},
-    "DOGE": {"balance": 0},
-    "LTC": {"balance": 0},
-    "EAC": {"balance": 0},
-    "SLL": {"balance": 0}
+    "BTC": 0,
+    "DCR": 0,
+    "XMR": 0,
+    "ETH": 0,
+    "NAS": 0,
+    "DOGE": 0,
+    "LTC": 0,
+    "EAC": 0,
+    "SLL": 0
   },
   "coinlayer": "74f80ffe87ad74d71800c05f48e3b322"
 }
